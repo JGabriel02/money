@@ -1,21 +1,31 @@
-# Money
+# 💰 Money
 
-Money é um aplicativo de controle financeiro pessoal desenvolvido com React Native e Expo. Ele permite que os usuários adicionem transações, categorizem despesas e receitas, e visualizem um resumo financeiro.
+**Money** é um aplicativo de controle financeiro pessoal desenvolvido com **React Native** e **Expo**.  
+Ele permite adicionar transações, categorizá-las como despesas ou receitas, e acompanhar seu saldo de forma clara e prática.
 
-## Funcionalidades
+---
 
-- **Gerenciamento de Transações**: Adicione, visualize e categorize transações financeiras.
-- **Resumo Financeiro**: Veja um resumo das receitas, despesas e saldo total.
-- **Interface Intuitiva**: Design simples e responsivo com navegação por abas.
+📸 Demonstração
+<div align="center"> <img src="assets/demo/demo.gif" width="300" alt="Demonstração do aplicativo Money" /> </div>
 
-## Tecnologias Utilizadas
+## ✨ Funcionalidades
 
-- **React Native**: Framework para desenvolvimento mobile.
-- **Expo**: Plataforma para desenvolvimento e build de aplicativos.
-- **React Navigation**: Navegação entre telas.
-- **AsyncStorage**: Armazenamento local para persistência de dados.
+- 📥 **Gerenciamento de Transações**: Adicione, visualize e categorize entradas e saídas financeiras.
+- 📊 **Resumo Financeiro**: Veja rapidamente o total de receitas, despesas e o saldo atual.
+- 🧭 **Interface Intuitiva**: Design limpo, responsivo e navegação fluida por abas.
 
-## Estrutura do Projeto
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- **React Native** – Framework para desenvolvimento de apps móveis com JavaScript
+- **Expo** – Plataforma para desenvolvimento e build de aplicativos React Native
+- **React Navigation** – Navegação entre telas e abas
+- **AsyncStorage** – Armazenamento local para manter as transações salvas
+
+---
+
+## 📁 Estrutura do Projeto
 
 ```
 ├── app/                # Páginas e navegação
@@ -33,3 +43,5 @@ Money é um aplicativo de controle financeiro pessoal desenvolvido com React Nat
 ├── assets/              # Imagens e outros recursos estáticos
 ├── package.json         # Configurações e dependências do projeto
 └── README.md            # Documentação do projeto
+```
+
