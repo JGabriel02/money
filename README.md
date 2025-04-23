@@ -6,7 +6,11 @@ Ele permite adicionar transações, categorizá-las como despesas ou receitas, e
 ---
 
 📸 Demonstração
-<div align="center"> <img src="assets/demo/demo.gif" width="300" alt="Demonstração do aplicativo Money" /> </div>
+<div align="center">
+  <img src="assets/images/money01.jpg" width="30%" alt="Tela 1" />
+  <img src="assets/images/money02.jpg" width="30%" alt="Tela 2" />
+  <img src="assets/images/money03.jpg" width="30%" alt="Tela 3" />
+</div>
 
 ## ✨ Funcionalidades
 
